@@ -1,0 +1,3 @@
+SWIMMER|name=Michael;id=1234;modality=freestyle;injured=false
+RUNNER|name=Usain;age=30;id=1235;shoes=Nike;injured=false
+

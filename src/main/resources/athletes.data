@@ -1,0 +1,6 @@
+RUNNER|name=Mary;age=43;id=47868;injured=false;shoes=Asics
+RUNNER|age=18;name=John;id=47869;injured=true;shoes=Adidas
+SWIMMER|id=47870;name=Mike;injured=false;modality=freestyle
+RUNNER|name=Amy;age=23;id=47871;shoes=Nike;injured=false
+SWIMMER|id=47872;name=Bill;modality=butterfly;injured=false
+SWIMMER|id=47872;modality=backstroke;name=Ryan;injured=true
